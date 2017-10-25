@@ -14,3 +14,5 @@ python dump.py [TICKER] [SINCE] [UNTIL]
 2. urllib
 3. requests
 4. lxml parser
+5. Selenium
+
